@@ -1,0 +1,4 @@
+next : import all dependencies and DOC
+  next run: next.js request builder 
+    next: builder build website and app
+     run : genrate alies 
